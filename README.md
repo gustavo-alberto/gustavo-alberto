@@ -1,12 +1,11 @@
-**Hi, I’m Gustavo Alberto, a passionate self-taught developer from Brazil**
-
 # **About Me**
 
-- I like to explore new technologies and develop software solutions.
-- I’m currently learning Full Stack Development.
-- I’m looking to collaborate with other Developers.
-- I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
-- I try to: Go beyond and push the bounds.
+- 🚀 Transitioning into software development, with a strong focus on full-stack solutions.
+- 🐍 Advanced in Python, experienced in automations.
+- 🌐 Front-end enthusiast: HTML, CSS, JavaScript, and React.
+- 🔧 Graduated in Graphic Design, with a post-graduation in Control and Automation Engineering.
+- ✏️ Passionate about UX/UI Design, skilled in Figma for prototyping.
+- 🛠 Tech hobbyist: Arduino, Linux, Git/GitHub, and diving into Docker.
 
 # **Languages / Technologies**
 
