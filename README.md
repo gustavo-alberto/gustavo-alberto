@@ -9,11 +9,11 @@
 
 # **Languages / Technologies**
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=FFFFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
